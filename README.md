@@ -46,9 +46,16 @@ profitability-analysis/
 │
 ├── README.md
 ├── data/
+│   └── ORDERS.csv
+├── scripts/
+│   └── profitability_analysis.sps
 ├── outputs/
+│   └── Output1.spv
 └── report/
+    └── Profitability_Report.docx
 ```
+
+The SPSS syntax script was extracted directly from the final report's "SPSS Codes" appendix — no commands or logic were altered.
 
 ## Skills Demonstrated
 
